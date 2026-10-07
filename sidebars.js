@@ -1114,6 +1114,7 @@ const sidebars = {
         },
         "count_tokens",
         "anthropic_count_tokens",
+        "decisions",
         "moderation",
         "ocr",
         {
